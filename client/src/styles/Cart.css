@@ -1,0 +1,9 @@
+.cart-link{
+    color:black; /* Change the color to your preferred text color */
+    font-size: 18px;
+    margin-top: -4px;
+    font-weight: bold;
+}
+.header{
+    background-color: skyblue !important;
+}
